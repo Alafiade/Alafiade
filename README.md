@@ -1,6 +1,6 @@
 # OLUKAYODE ALAFIADE #
 ## About Me ##
-Computer Science Graduate [Caleb University]| ML Research | Building Computer Vision Applications.
+Computer Science Graduate (Caleb University)| ML Research | Building Computer Vision Applications.
 
 - Currently working on  the Implementation of the LeNet 5 Architecture from the Novel Deep LeNet5- Convolutional Neural Network Model for Image Recognition Paper.
 -  Diving deep into PyTorch, Computer Vision and ViTs architecture.
