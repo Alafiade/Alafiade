@@ -1,10 +1,21 @@
-## Hi there 👋
+##OLUKAYODE ALAFIADE##
+# About Me #
+Computer Science Graduate [Caleb University]| ML Research | Building Computer Vision Applications.
 
-I'm  currently pursuing the field of AI with a strong curiosity for Computer Vision and its application 
+- Currently working on  the Implementation of the LeNet 5 Architecture from the Novel Deep LeNet5- Convolutional Neural Network Model for Image Recognition Paper.
+-  Diving deep into PyTorch, Computer Vision and ViTs architecture.
+-  Open to collaborating on AI/ML projects and Research implementations.
+-   Reach me: alafiade@gmail.com
 
-Here are some ideas to get you started:
+# Tech Stack
+- Languages: Python,
+-  ML/DL : Pytorch, scikit-learn
+-  Libraries: NumPy, Pandas,  Matplotlib.
 
-- 🔭 I’m currently working on Deep Learning fundamentals with Pytorch 
-- 🌱 I’m currently learning  CNNs and  Vision Transformers and implementing Research papers 
-- 👯 I’m looking to collaborate on different  Projects 
+# Current Focus
+- Implementing: LeNet 5 architecture for image classification.
+- Reading: LeNet5 paper and Studying Ian GoodFellow's Deep Learning Book
+
+ # Follow my Journey 
+  I'm sharing my projects  and insights on [X] https://X.com/Alafiade_ml?s =21
 
